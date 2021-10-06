@@ -8,7 +8,7 @@
     "local:deploy": "hardhat run scripts/deploy.js --network local",
     "local:sign": "hardhat run scripts/sign.js --network local",
     "deploy": "hardhat run scripts/deploy.js --network xdai",
-    "deploy1": "hardhat run scripts/deploy1.js --network polygon",
+    "deploy1": "hardhat run scripts/deploy1.js --network rinkeby",
     "sign": "hardhat run scripts/sign.js --network xdai",
     "events": "hardhat run scripts/events.js --network xdai",
     "build": "rollup -c",
